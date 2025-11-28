@@ -1,0 +1,832 @@
+[00:00:01.292] Server  LOG      ✓ Ready in 919ms
+[00:00:04.264] Server  ERROR    ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button onClick={function onClick} className=... children=...>
+                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:04.670] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.801] Server  WARN     ⚠ The "images.domains" configuration is deprecated. Please use "images.remotePatterns" configuration instead.
+[00:00:05.135] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button onClick={function onClick} className=... children=...>
+                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:28.768] Server  ERROR    ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button onClick={function onClick} className=... children=...>
+                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:29.030] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:29.177] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button onClick={function onClick} className=... children=...>
+                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:08:45.303] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:08:46.014] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:47.139] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:47.139] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:47.139] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:47.139] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:47.139] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:47.139] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:09:13.808] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:13:40.175] Server  LOG      ✓ Compiled in 169ms
+[00:13:43.728] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:43.912] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:13:43.912] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:13:43.912] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:13:43.912] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:13:43.912] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:13:43.912] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:16.151] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:16.378] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:16.379] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:16.379] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:16.379] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:16.379] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:16.379] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:17.016] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:17.211] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:17.211] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:17.211] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:17.211] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:17.211] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:17.211] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:24.959] Server  LOG      ✓ Compiled in 49ms
+[00:14:37.584] Server  LOG      ✓ Compiled in 59ms
+[00:14:50.472] Server  LOG      ✓ Compiled in 47ms
+[00:14:53.640] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:53.856] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:53.856] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:53.856] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:53.856] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:53.856] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:53.856] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:14:56.092] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:16:50.923] Server  LOG      ✓ Compiled in 133ms
+[00:17:01.079] Server  LOG      ✓ Compiled in 180ms
+[00:17:11.383] Server  LOG      ✓ Compiled in 61ms
+[00:17:14.980] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:15.234] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:15.234] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:15.234] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:15.234] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:15.234] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:15.234] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:35.677] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:35.876] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:35.876] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:35.876] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:35.876] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:35.876] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:35.876] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:36.582] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:36.785] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:36.785] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:36.785] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:36.785] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:36.785] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:36.785] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.248] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:37.291] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.448] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.449] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.449] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.449] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.449] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.673] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:37.809] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.809] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.809] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.809] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.809] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:37.809] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:19:53.742] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:53.953] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:19:53.953] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:19:53.953] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:19:53.953] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:19:53.953] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:19:53.953] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:00.582] Server  LOG      ✓ Compiled in 332ms
+[00:21:18.285] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:18.484] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:18.484] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:18.484] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:18.484] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:18.484] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:18.484] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:33.457] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:33.644] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:33.644] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:33.644] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:33.644] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:33.644] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:33.644] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:34.488] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:34.690] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:34.691] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:34.691] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:34.691] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:34.691] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:34.691] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:35.260] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:35.477] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:35.477] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:35.477] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:35.477] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:35.477] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:35.477] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:36.043] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:36.260] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:36.260] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:36.260] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:36.260] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:36.260] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:36.260] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:13.503] Server  LOG      ✓ Compiled in 76ms
+[00:22:41.187] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:41.401] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:41.401] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:41.401] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:41.401] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:41.401] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:22:41.401] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:08.248] Server  LOG      ✓ Compiled in 257ms
+[00:26:09.134] Browser ERROR   ./components/Hero.jsx:8:1
+Parsing ecmascript source code failed
+   6 | export default function Hero() {
+   7 |   // State for typewriter text
+>  8 | import { useState, useEffect } from 'react'; // Import hooks for state and effects (English: Hooks for state and effects, Hindi: राज्य और प्रभावों के लिए हुक)
+     | ^^^^^^
+   9 |
+  10 | export default function Hero() {
+  11 |   // State for typewriter text (English: State for typewriter text, Hindi: टाइपराइटर टेक्स्ट के लिए राज्य)
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./components/Hero.jsx
+    ./app/page.jsx
+[00:26:18.141] Browser ERROR   ./components/Hero.jsx:8:1
+Parsing ecmascript source code failed
+   6 | export default function Hero() {
+   7 |   // State for typewriter text
+>  8 | import { useState, useEffect } from 'react'; // Import hooks for state and effects
+     | ^^^^^^
+   9 |
+  10 | export default function Hero() {
+  11 |   // State for typewriter text
+
+'import', and 'export' cannot be used outside of module code
+
+Import trace:
+  Server Component:
+    ./components/Hero.jsx
+    ./app/page.jsx
+[00:26:28.172] Server  LOG      ✓ Compiled in 76ms
+[00:27:39.754] Server  LOG      ✓ Compiled in 89ms
+[00:27:44.703] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:44.951] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:27:44.951] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:27:44.951] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:27:44.951] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:27:44.951] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:27:44.951] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:28.202] Server  LOG      ✓ Compiled in 122ms
+[00:28:54.490] Server  LOG      ✓ Compiled in 50ms
+[00:29:04.965] Server  LOG      ✓ Compiled in 47ms
+[00:30:49.205] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:49.428] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:30:49.428] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:30:49.429] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:30:49.429] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:30:49.429] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:30:49.429] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:31.001] Server  LOG      ✓ Compiled in 190ms
+[00:31:52.883] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:53.308] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:53.308] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:53.308] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:53.308] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:53.308] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:31:53.308] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:32:25.992] Server  LOG      ✓ Compiled in 51ms
+[00:32:39.046] Server  LOG      ✓ Compiled in 50ms
+[00:33:10.843] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:11.069] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:33:11.069] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:33:11.069] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:33:11.069] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:33:11.069] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:33:11.069] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:33:42.270] Server  LOG      ✓ Compiled in 53ms
+[00:35:24.055] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:24.326] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:24.326] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:24.326] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:24.326] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:24.326] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:24.326] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:26.683] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:27.747] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:27.747] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:27.747] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:27.747] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:27.747] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:35:27.747] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:36:18.501] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.504] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.506] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.508] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.514] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.515] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.517] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.518] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.520] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.521] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.522] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.524] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.526] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.528] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.529] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.530] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.531] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.532] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.534] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.535] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.537] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.537] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.538] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.540] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.541] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.543] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.544] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.545] Server  ERROR    ⨯ ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:36:18.546] Server  LOG      ✓ Compiled in 212ms
+[00:36:19.145] Browser ERROR   ./components/Footer.jsx:1:1
+Module not found: Can't resolve 'react-icons/fa'
+> 1 | import { FaTwitter, FaFacebookF, FaInstagram } from "react-icons/fa";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Footer() {
+  4 |   return (
+
+Import trace:
+  Server Component:
+    ./components/Footer.jsx
+    ./app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:38:17.122] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:17.347] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:38:17.347] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:38:17.347] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:38:17.347] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:38:17.347] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:38:17.347] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:42:28.050] Server  LOG      ✓ Compiled in 1586ms
+[00:42:34.843] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:42:35.084] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:42:35.084] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:42:35.084] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:42:35.084] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:42:35.084] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:42:35.084] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:42:46.807] Server  LOG      ✓ Compiled in 202ms
+[00:43:09.031] Server  LOG      ✓ Compiled in 189ms
+[00:43:35.586] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `Home`.
+[00:44:09.596] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:44:09.982] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:44:09.995] Server  LOG      ✓ Compiled in 778ms
+[00:44:10.183] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:11.138] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `Home`.
+[00:44:21.024] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:44:21.034] Server  LOG      ✓ Compiled in 123ms
+[00:44:21.588] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:44:21.792] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:22.135] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `Home`.
+[00:44:25.598] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:44:25.755] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:25.892] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `Home`.
+[00:44:26.909] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:44:27.047] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:27.185] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `Home`.
+[00:44:38.061] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:44:38.615] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:44:38.649] Server  LOG      ✓ Compiled in 102ms
+[00:44:38.809] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:39.139] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `Home`.
+[00:44:41.625] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[00:44:41.787] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:41.922] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `Home`.
+[00:44:47.594] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:44:48.119] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:49.138] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:44:49.138] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:44:49.138] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:44:49.138] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:44:49.138] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:44:49.138] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:48:21.654] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:21.902] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:48:21.902] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:48:21.902] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:48:21.902] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:48:21.902] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:48:21.902] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:04.138] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:04.351] Browser WARN    Image with src "/images/india1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:04.351] Browser WARN    Image with src "/images/india2.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:04.351] Browser WARN    Image with src "/images/india3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:04.351] Browser WARN    Image with src "/images/india4.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:04.351] Browser WARN    Image with src "/images/india5.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:04.351] Browser WARN    Image with src "/images/india6.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes

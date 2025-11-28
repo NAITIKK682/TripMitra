@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///D:/PERSONAL%20PROJECTS/React-%20next-tailwind/TripMitra/app/page.jsx"],"sourcesContent":["import Hero from '@/components/Hero';\r\nimport Features from '@/components/Features';\r\nimport Destinations from '@/components/Destinations';\r\nimport Pricing from '@/components/Pricing';\r\nimport Contact from '@/components/Contact';\r\n\r\nexport default function Home() {\r\n  return (\r\n    <>\r\n      <Hero />\r\n      <Features />\r\n      <Destinations />\r\n      <Pricing />\r\n      <Contact />\r\n    </>\r\n  );\r\n}"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAMe,SAAS;IACtB,qBACE;;0BACE,8OAAC;;;;;0BACD,8OAAC;;;;;0BACD,8OAAC;;;;;0BACD,8OAAC;;;;;0BACD,8OAAC;;;;;;;AAGP","debugId":null}}]
+}
